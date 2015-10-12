@@ -1,0 +1,9 @@
+name: heyho
+version: 1.0
+vendor: MIKELANGELO <info@mikelangelo-project.eu>
+binaries:
+ - name: bin/hoho
+   caps: []
+ - name: bin/main
+   caps: []
+
